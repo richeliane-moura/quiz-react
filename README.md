@@ -18,4 +18,5 @@ Reinício do jogo após o fim
 
 🔗 Link do Projeto
 
-Acesse o quiz online: "https://richeliane-moura.githug.io/quiz-react"
+Acesse o quiz online: https://richeliane-moura.github.io/quiz-react/
+
