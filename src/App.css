@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  padding-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;       /* garante que ocupe toda a tela */
+  background-color: #1c1c1c; /* fundo preto */
+}
+
+.App h1 {
+  margin-bottom: 2rem;
+  color: #fff;  /* título visível sobre o fundo preto */
+}
+
